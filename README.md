@@ -15,7 +15,7 @@ Now I'm learning the following programming language:
 - My favorite food is Ceviche, a meal from my country.
 - I went to Colombia, which is a good place to visit and eat.💬
 - I love burgers, especially when instead of bread it has banana on both sides.⚡
-- 
+
 
 
 This is my beginning, it is small, but I know that with God I will grow so much as He lets me. 
