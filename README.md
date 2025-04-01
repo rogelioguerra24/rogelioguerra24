@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 cs
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cs,js" />
+    <img src="https://skillicons.dev/icons?i=git,cs,js,css,html" />
   </a>
 </p>
 - 🔭 I’m currently working on ...
