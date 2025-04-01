@@ -1,4 +1,4 @@
-## Hello World, The amazing come👋
+## Hello World, The amazing come 🥳
 
 
 **rogelioguerra24/rogelioguerra24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 cs
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,cs,js" />
   </a>
 </p>
 - 🔭 I’m currently working on ...
